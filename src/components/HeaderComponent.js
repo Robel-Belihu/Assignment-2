@@ -57,7 +57,7 @@ export default class HeaderComponent extends Component {
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="nav-link" to="/aboutus">
+                  <NavLink className="nav-link" to="/aboutUs">
                     <FontAwesomeIcon icon={faInfoCircle} size="x" />
                     About us
                   </NavLink>
@@ -69,7 +69,7 @@ export default class HeaderComponent extends Component {
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="nav-link" to="/menu">
+                  <NavLink className="nav-link" to="/contactUs">
                     <FontAwesomeIcon icon={faContactBook} size="x" />
                     Contact us!
                   </NavLink>
